@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me icodecaris@gmail.com
 
-- ⚡ Fun fact I'm a full certified welder CWB :canada:
+- ⚡ Fun fact I'm a certified welder CWB :canada:
 
 <h3 align="left">Connect with me:</h3>
 
