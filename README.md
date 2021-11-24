@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead]<p align="left">![Carolina Islas](https://user-images.githubusercontent.com/92637222/142734678-b66eca1d-ac30-4040-8c04-61ac72830649.png)
+[![MasterHead]<p align="left">![Carolina Islas](https://user-images.githubusercontent.com/92637222/142734678-b66eca1d-ac30-4040-8c04-61ac72830649.png)>
   
 <h1 align="center">Hello there! 👋</h1>
 <h3 align="center">My name is Carolina, I'm a software developer in the making :muscle::nerd_face:  </h3>
