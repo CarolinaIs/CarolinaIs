@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning to sharpening my programming skills!
 
-- 📫 How to reach me icodecaris@gmail.com
+- 📫 How to reach me carolinaxislas@gmail.com
 
 - ⚡ Fun fact I'm a certified welder CWB :canada:
 
