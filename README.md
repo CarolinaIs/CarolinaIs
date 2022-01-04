@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 
  <img src="https://user-images.githubusercontent.com/92637222/142734678-b66eca1d-ac30-4040-8c04-61ac72830649.png" />
 
-  <!-- <p align="center">
-  I'm a Junior Software Developer and former Code Cadet from the <Academia de Código_> 🎓. I'm a passionate learner who's always willing to learn and work across technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
+  <p align="center">
+  I'm a Junior Software Developer and former Code Cadet from the <Academia de Código_> 🎓. I'm a passionate learner and avid reader who's always willing to learn and work across technologies 💡. You can find me behind a computer writing code 👨🏻‍💻.
+</p>
   
 <h3 align="center">	:mexico: :canada: :portugal:</h3>
 
 - 🔭 I’m currently working on sharpening my coding skills.
+
+-  🌱 I’m currently learning ... React.js, Angular and Python.
 
 - 📫 How to reach me carolinaxislas@gmail.com
 
