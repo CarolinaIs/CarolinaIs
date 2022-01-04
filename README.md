@@ -12,16 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead]<p align="left">![Carolina Islas](https://user-images.githubusercontent.com/92637222/142734678-b66eca1d-ac30-4040-8c04-61ac72830649.png)>
+<p align="left">![Carolina Islas](https://user-images.githubusercontent.com/92637222/142734678-b66eca1d-ac30-4040-8c04-61ac72830649.png)>
   
 <h1 align="center">Hello there! 👋</h1>
-<h3 align="center">My name is Carolina, I'm a software developer in the making :muscle::nerd_face:  </h3>
+<h3 align="center">My name is Carolina, I'm a junior software developer :muscle::nerd_face: recently graduated from the <Academia de Código_> </h3>
 <h3 align="center">	:mexico: :canada: :portugal:</h3>
 
 
-- 🔭 I’m currently working on building an empire.
-
-- 🌱 I’m currently learning to sharpening my programming skills!
+- 🔭 I’m currently working on sharpening my coding skills.
 
 - 📫 How to reach me carolinaxislas@gmail.com
 
