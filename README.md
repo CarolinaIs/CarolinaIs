@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img src="github.jpg" />
+ <img src="github1.jpg" />
 
   <p align="center">
   I'm a Junior Software Developer and former Code Cadet from the <Academia de Código_> 🎓. I'm a passionate learner and avid reader who's always willing to learn and work across technologies 💡. You can find me behind a computer writing code 👨🏻‍💻.
