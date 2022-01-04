@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img src="https://user-images.githubusercontent.com/92637222/142734678-b66eca1d-ac30-4040-8c04-61ac72830649.png" />
+ <img src="github.jpg" />
 
   <p align="center">
   I'm a Junior Software Developer and former Code Cadet from the <Academia de Código_> 🎓. I'm a passionate learner and avid reader who's always willing to learn and work across technologies 💡. You can find me behind a computer writing code 👨🏻‍💻.
